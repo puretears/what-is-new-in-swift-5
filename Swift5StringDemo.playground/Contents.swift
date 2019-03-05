@@ -6,7 +6,7 @@ import UIKit
 /// is escaping it by a \.
 let str1 = "Contain a \" sign in a String."
 
-/// In Swift 5, you can make the compiler parse all apostrophies directly by encompass
+/// In Swift 5, you can make the compiler parse all apostrophes directly by encompassing
 /// the whole string with a pair of `#`.
 let str2 = #"Contain a " sign in a String."#
 
